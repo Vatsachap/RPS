@@ -43,7 +43,7 @@ public class rps{
                 System.out.println("you win!");
 
 
-            }else if (computermove.equals("p")){
+           // }else if (computermove.equals("p")){
                 System.out.println("you win!");
 
             }
