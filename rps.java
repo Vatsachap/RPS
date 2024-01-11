@@ -38,6 +38,17 @@ public class rps{
             }
 
          }
+          //else if(playermove.equals("g")){
+            if(computermove.equals("s")){
+                System.out.println("you win!");
+
+
+            }else if (computermove.equals("p")){
+                System.out.println("you win!");
+
+            }
+
+         }
          else if(playermove.equals("s")){
             if(computermove.equals("p")){
                 System.out.println("you win!");
